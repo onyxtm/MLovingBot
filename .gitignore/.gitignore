@@ -1,0 +1,6 @@
+git remote add origin https://github.com/onyxtm/MLovingBot.git
+git push -u origin master
+mkdir ~/Lang
+mkdir ~/users
+mkdir ~/likes
+mkdir ~/img
